@@ -10,10 +10,10 @@ Bench 180 5,5,5 easy
 Pushups
 
 9/9/15 
-Back squat 225 1
+squat 225 1
 
 9/10/15
-Back squat 230 1 
+squat 230 1 
 DB rows 70 9,9,9
 
 9/11/15
@@ -22,7 +22,7 @@ Bench 180 4
 Ab Pullups 4,4,4
 
 9/12/15
-Back squat 270 1
+squat 270 1
 Deadlift 245 3,3,3
 Pullups half weighted 744
 
@@ -31,7 +31,7 @@ Front squat 225 1
 Bench 225 1 
 
 9/15/15
-Back squat 245 1 left knee hurt 
+squat 245 1 left knee hurt 
 DB row 70 3
 
 9/16/15
@@ -41,12 +41,12 @@ Pullups half weighted 884
 Curls 
 
 9/17/15
-Back squat 280 1
+squat 280 1
 Deadlift 195 3,3,3
 OHP 135 1
 
 9/18/15
-Back squat 270 1 
+squat 270 1 
 Bench 230 1 
 Pullups weighted 744?
 
@@ -56,7 +56,7 @@ Deadlift 265 5
 Bench 215 1
 
 9/21/15
-Back squat 280 1
+squat 280 1
 Bench 235 1
 
 9/22/15
@@ -99,19 +99,19 @@ Deadlift 300 4
 Headache
 
 9/30/15
-Back squat reps at 175
+squat reps at 175
 Bench 185 6,6,6
 Curls
 
 10/1/15
-Back squat 195 6,6
+squat 195 6,6
 Deadlift 3,3,3,3,3,3 255
 Hip thrust 135 8,8,8
 
 10/2/15
 Bench 245 1 
-Back squat 245 5,5
-back squat 230 5
+squat 245 5,5
+squat 230 5
 Front squat 
 Ab rollouts 
 Leg raises
@@ -122,13 +122,14 @@ Romanian deadlifts
 Rows
 
 10/6/15
-Bench 245 1, cg 145
-Back squat 300 2
+Bench 245 1
+cg 145
+squat 300 2
 Ab rollouts 8,8
 
 10/7/15
 Bench 230 1
-Back squat something for reps
+squat something for reps
 
 10/8/15
 Deadlift 300 2,2,2 
@@ -144,7 +145,7 @@ Lateral raises 10 15,15,15,15
 Curls 65 4x12
 
 10/10/15
-Back squat 335 1 PR!
+squat 335 1 PR!
 Bench 205 2,2
 Front squat 175 3x5
 Glute bridge 135 3x10
@@ -182,8 +183,8 @@ Ab rollout 3x8 Curls 65 3x10
 Bar holds 95lbs 2x30s Russian twist 10 3x35 Rear delt flyes 
 
 10/20/15
-Back squat 245 3
-Back squat 285 2
+squat 245 3
+squat 285 2
 Front squat 175 6 bleh
 Glute bridge 145 2x10
 
@@ -193,7 +194,6 @@ Bench 175 8
 Incline 125 3x8
 Front raises barx3x8 ez Curls 3x10
 
-10/21/15 PM
 Deadlift week 2 365max
 Deadlift 255 4,4
 Deadlift 290 2
@@ -236,7 +236,8 @@ Front squat 175 3x6
 Glute bridge 150? 3x10
 
 11/2/15
-Bench 255 so close 235 etc
+Bench 255 miss
+bench 235 1
 Bench cg 195 3x5
 Db bench 80 3x5
 
@@ -271,7 +272,7 @@ Spoto 195 3x5
 OHP 85 2x10
 
 11/7/15
-Squat 315x1 255x2x10 PR
+Squat 315 1 255 10,10 PR
 Front squat 185 3x6
 Romanians 195 3x10
 
@@ -329,20 +330,20 @@ Incline Bench 185 3x3
 Curls 
 
 11/19/15
-Back squat 315 2,2
+squat 315 2,2
 Paused squat 225 4x5
 Front squat 235 3x3
 
 11/20/15
-Bench 260x1 PR! 
+Bench 260 1 PR! 
 240 2,1,1
 Pin press 220/225 3-5 reps 5 sets 
 Push press 140 3x3 DB row 80s 3x8
 Rear delt flyes DB 3x8
 
 11/21/15
-Squat 360x1 PR hypeeee 
-Front squat 2x10 185
+Squat 360 1 PR hypeeee 
+Front squat 185 10,10
 Abs
 Ham Curls 3x20
 
@@ -372,7 +373,7 @@ Front raise 35 3x12
 Chinups ankle weights 8,7,6
 
 11/28/15
-Back squat 275 3x5 I think
+squat 275 3x5 I think
 
 12/1/15
 Bench 250 1
@@ -392,8 +393,8 @@ Rows 125 3x10
 Incline DB 70 6,6
 
 12/5/15
-Back squat 315 2,2,1
-Back squat 235 10,10,6 lol
+squat 315 2,2,1
+squat 235 10,10,6 lol
 Hip thrusts 175 3x10
 Hamcurls 
 Pullups 8,8,7 weighted
@@ -403,7 +404,7 @@ Curls 75 a couple sets
 Bench 245 1
 Bench 215 2
 Rear delt flyes 3x12
-Back squat 335x1
+squat 335 1
 Pullups 8 +30 6,5
 
 12/8/15
@@ -426,15 +427,18 @@ Block pull 285 5
 
 12/11/15
 Close grip Bench 255x1 lol PR
-Front squat 255x1 195x4
+Front squat 255 1 
+front squat 195 4
 Weighted Pullups +35 6,6,6
 Ham curls
 Eccentric leg slide things 
 Ez Curl 105x4  85 3x7
 
 12/12/15
-OHP 145, 105 4x6
-Deadlift 410x1 PR 365x4
+OHP 145 1
+ohp 105 4x6
+Deadlift 410 1 PR
+deadlift 365 4
 Eccentric ham slides
 Rear delt flyes 3x8
 Rows 80 3x8
@@ -461,7 +465,7 @@ Bench 205 3,3
 Chinups 10,7,8
 
 12/18/15
-Back squat 285 4,4,7
+squat 285 4,4,7
 Deadlift 215 4x4 speed
 
 
@@ -479,8 +483,8 @@ Deadlift 335 2x2
 Single leg deadlift 135 3x8
 
 12/22/15
-Bench 245x2 PR
-220 3x4
+Bench 245 2 PR
+bench 220 3x4
 Incline DB 70s 10,8,6
 
 12/23/15
@@ -491,7 +495,8 @@ Leg raises 3x8 w/ ankle weights cheat
 Ham Curls 3x30
 
 12/24/15
-OHP 150 PR!   120 3x5
+OHP 150 1 PR!
+ohp 120 3x5
 Front raises 40 3x10ish
 Reverse Curls 65 3x10
 Bar holds 105 20,25,
@@ -500,7 +505,7 @@ Bar holds 105 20,25,
 Close grip bench 215 3x3
 
 12/28/15
-Back squat 215 3x5
+squat 215 3x5
 Single leg deadlift 145 3x5
 Pullup +90 1RM PR
 +35 2x5
@@ -522,7 +527,7 @@ Pin press 225 4,5,3
 Close grip 175 8,8,6
 
 1/4/16
-Deadlift 365x4 hammy
+Deadlift 365 4 hammy
 Squat 135 a lot
 Bench 195 6,6,6
 Pullups 3x3 +45
@@ -540,7 +545,7 @@ Rear delt flyes 12.5 3x12
 Curls 75 3x8
 Ham Curls 
 Pullups
-Lat pull down 45*45*25 3x8
+Lat pull down 115 3x8
 
 1/9/16
 Back still hurts 
@@ -550,7 +555,7 @@ Bike 5 miles 16:55 resistance 5
 
 
 1/11/16
-Deadlift 365x3 pyramid weak hammy
+Deadlift 365 3 pyramid weak hammy
 Rows 80 3x10
 Leg raises 3x20
 Ham Curls 
@@ -561,7 +566,7 @@ Incline DB 75 3x6
 Side raises 15s 3x12
 
 1/15/16
-Back squat 275x2
+squat 275 2
 Front squat 225 4
 Ham Curls 60x8 30  3x8 eccentric
 
@@ -612,7 +617,7 @@ Ham Curls 55 3x10
 
 
 2/12/16
-Back squat 275 3,1
+squat 275 3,1
 Front squat 205 3x5
 Normal Ham Curl up to 100x12
 Bad girl 130 3x10
@@ -626,7 +631,7 @@ Hammer  Curls  35 8,7,7,
 
 
 2/18/16
-Bench 245x1.8 lol
+Bench 245 1.8 lol
 Bench 205 6,5,5
 Tricep ext ecc 32.5 3x10
 Rear front and side delt raises 15s
@@ -637,7 +642,7 @@ DB Incline 70 8,6,
 DB side raises 15s
 
 2/23/16
-Deadlift 345x1 wat
+Deadlift 345 1 wat
 Deadlift 295 3,3
 Ham Curls 40 one leg 3x12
 Single leg Calf raises 140 3x10
@@ -663,7 +668,7 @@ Triceps
 Ham curls
 
 3/8/16
-Back squat 275 2,2,3
+squat 275 2,2,3
 Front squat 205 5,1
 Romanian Deadlifts 185 10,10,10
 Ham Curls 40 3 sets
@@ -737,7 +742,9 @@ Hammer Bench 45 25 3x6
 Rear delt flyes 15 3x10
 
 4/11/16
-Bench 215x2x4 235x1 failed 255
+Bench 215 4,4 
+Bench 235 1
+bench failed 255
 
 4/13/16
 Rdls 135xsomething
@@ -1216,7 +1223,8 @@ Pullups +40 8,5,5
 Bench 210 6,6,7 add 5
 
 1/13/17
-Deadlift 425x1 405 5x1 EMOM
+Deadlift 425 1
+deadlift 405 1,1,1,1,1 EMOM
 Deficit deads 345 5,5
 Leg press 
 
@@ -1286,7 +1294,7 @@ Triceps
 Curls
 
 3/6/17
-Squat 315x5 other shiz
+Squat 315 5 other shiz
 Rdls 175 10,10,10
 Leg press 
 
@@ -1368,13 +1376,13 @@ Incline db 75 10,9,9
 Triceps 
 
 4/3/17
-Deadlift 425x1 almost 445
+Deadlift 425 1 almost 445
 Leg press
 Ham curls
 Abs
 
 4/4/17
-Bench 280x1 PR! 
+Bench 280 1 PR! 
 Cg bench
 Triceps
 
@@ -1617,7 +1625,7 @@ Rear delt flyes
 Bike 20 minutes 5.2 miles
 
 11/13/17
-Squat 335 3x3!
+Squat 335 3,3,3
 Leg press 3 45s 3x12
 Abs
 
@@ -2009,7 +2017,7 @@ Ohp
 Ab wheel
 
 8/13/18
-Back squat 315? Or 305 2,3,3
+squat 315? Or 305 2,3,3
 One leg deads 125
 
 8/18/18
@@ -2356,7 +2364,8 @@ Cable chest flyes
 Sideways hammer press
 
 11/20/18
-Deadlift 405 5   365 4, 4
+Deadlift 405 5
+deadlift 365 4, 4
 Ham curls 105
 
 11/28/18
@@ -2451,7 +2460,433 @@ Bench 300 1 PR!! Bench 275 3  245 4
 Front squat hold 275 3 sets
 Hammer press ss chest fly
 
- 
+4/22/19
+Bench 245 4,4 
+Cg bench 185 6,6
+Tbar rows 90 14,13, 12,9
+Rear delt flyes
+Chest flyes ss pushups
+
+4/23/19
+Deadlift 225
+Good mornings 115
+Glute ham raises
+One arm Kb swings 53 3x12
+
+4/24/19
+Ohp 135 5 125 8-- back off
+Pullups 8,8,8,6
+Lat pull down
+Curls
+Lu raises 20 10,10,8,8
+
+4/25/19
+Squat  295  7
+Rdls 135 3x10
+Leg press
+Ab wheel 
+Weighted situps
+
+4/26/19
+Bench 255 5
+15 incline bench 70 12,12, 10
+Supported rows  70
+Chest and rear delt flyes
+Triceps
+External rotation 
+Curls 
+
+4/27/19
+deadlift 285 8
+Front squat 185 5, 5,5
+Front squat holds 255
+Plate pinch
+Weighted sit-ups 
+Farmers carries and step ups
+1km row 4:07
+
+4/29/19
+Ohp 145 5  BBB
+Lat pull down 
+Landmine 45 3x8
+Lu raises
+Medicine ball throws
+
+4/30/19
+Squat 315 7
+Good mornings 115
+Reverse hyper
+Situps
+Hamstring curls
+
+5/1/19
+Bench 275 3
+Hammer bench ss chest flyes
+Tbar rows 90 10, 10,10,10
+Tris and curls
+
+5/3/19
+deadlift 300 9
+Snatch grip and pause deadlifts 225
+Front squat 205 5,5,
+Front squat holds 255 3 sets
+Farmer carry 225 trap bar
+Cable rows 90-110
+
+5/4/19
+OHP 155 3 BBB 85
+Smith shrugs 45 35 ss 17.5 lu raises
+Pullups +45 5,5,4
+Hammer curls 40
+Mile run 10:00
+
+5/6/19
+squat 335 7
+Pause squats 135
+Ham curls 
+2 sets quad ext
+Situps 13lb
+
+5/7/19
+bench 240 7
+Ss chest flyes hammer bench
+Cable rows
+Triceps
+Pullaparts
+Hammer curls
+
+5/9/19
+deadlift 280 upper back felt off
+Front squat holds 275 
+
+5/11/19
+Ohp 140 6 
+BBB Ohp 85 ss Pullups 10,10,7
+Lat pulldowns
+Tris
+Face pulls
+Lu raises
+
+5/13/19
+squat 310 10 pause squat 185 
+Sore lat
+Rdls 185 
+
+5/14/19
+bench 255 6
+Rows
+Ohp 95 3x8 ss pullups
+
+5/16/19
+deadlift 295 10 3x5 225
+Front squat 210 5,5
+Leg press
+Decline situps
+
+5/17/19
+OHP 150 4 
+BBB I think
+Triceps 
+
+5/20/19
+squat 325 9
+Good mornings 135 
+Incline walk 
+Leg press
+Calf raises
+
+5/21/19
+Bench 270 3
+Rows 100
+V triceps 
+Rear delt db
+Chest supported rows
+
+5/22/19
+Deadlift 315 10
+Front squat holds 275
+Shrugs ss pullups
+More shrugs/upright rows
+Hamstrings deep rdls
+
+5/23/19
+Ohp 155 3
+Ohp 85 10,10,10,10, 10
+Lots of tris
+Rear delts
+Incline walk
+
+5/25/19
+squat 345 8
+Front squat 215 5,5,5
+Front squat holds 305
+Deficit rdls 115
+Decline sit-ups 5lbs
+
+5/27/19
+bench 245 7  265 4
+Flyes ss 1 arm hammer press
+Rows 110 8,8,7
+Tris
+Chest supp rows
+
+5/28/19
+deadlift 300 10 
+Deadlift 345 5
+Decline situps
+
+5/29/19
+Ohp 140 6
+BBB Ohp 95 10,10,10,10,10 right Rotator cuff sore
+Pullups +35 6,5,6
+Lat pull downs
+
+5/31/19
+Squat 320 10
+Front squat 225 5,5,5
+Hamstrings
+Decline sit-ups 10lb
+
+6/1/19
+bench 260 5 205 5,5,5
+Row 110 9, 8, lighter
+Chest press ss flyes
+Hammer curls 40s
+Run 1 mile 9:53
+
+6/3/19
+deadlift 320 11
+Leg press
+Ham curls
+Calves
+Decline sit-ups 10lbs 8,4 bw
+
+6/4/19
+ohp wrist hurt only did 95lb sets
+Cable shrugs
+More shrugs
+Lu raises use 20s
+Rolling tricep things
+
+6/5/19
+squat 335 9
+Front squat holds up to 315
+Light quad extensions
+?? 
+
+6/10/19
+bench 275 3ish
+Cg bench 205 6, 6,6
+Chest press ss flyes
+Bis
+Tris
+
+6/11/19
+deadlift 335 10
+Deadlift 385 5
+Good mornings 135 8,8
+Glute ham raise
+
+6/13/19
+Ohp 160 2
+Ohp 105 10,10 95 7
+Ext rotation 
+Pullups +45 6,5,4
+Lu raises 17.5 use 20
+
+6/14/19
+squat 355 6 felt weak 
+Front squat 225 4,3
+Deficit rdls 95
+Quad ext
+
+6/15/19
+bench 250 very easy 3 but wrist hurt 
+Flyes ss chest press
+Rows 
+Facepulls 
+Forearm roller and wrist curls
+Mile run 8:46
+
+6/17/19
+deadlift 315 15
+Single leg deadlift 135 3x8
+Quad ext
+Ab roller/ lawnmower
+
+6/18/19
+Ohp 145 5 push press 145 5,5
+Face pulls and Pullups +55 5,5,5
+Cable Shrugs ss triceps
+Lu raises
+
+6/19/19
+squat 325 10
+Squat 405 1!
+Front squat 255 3,3,3
+Quad ext
+Glute ham raise 
+
+6/21/19
+bench 265 4
+Bench 295 1
+Cg bench 205 5,5, 5
+Dips 10,10,6
+Chest supported rows
+
+6/22/19
+deadlift 335 12
+Deadlift 405 1
+Rdls 155 3x8
+Forearm curls
+Quad ext
+Run 1.6 miles 20:28
+
+6/24/19
+Ohp 155 4
+Push press 165 3, 175 2
+Pullups +70 4,4, 5
+Lat pull down 
+
+6/25/19
+squat 345 8
+Front squat 225 5 275 3,3
+Quad ext 
+Bear crawls and cossack squats 
+
+6/27/19
+bench 280 3
+Bench 225 6,6,6
+Chest press ss flyes 
+Triceps ss rear delt flyes
+Curls 35 50  
+
+6/28/19
+deadlift 350 10
+Shrugs
+Front squat holds
+
+Basketball and hike 
+
+7/2/19
+OHP 160 3
+Push press 175 2  165 3
+Poundstone 25lbs
+Triceps
+
+7/3/19
+squat 405 1  365 2 lol quads sore
+Glute ham raise
+Cossack squats 44lb
+Leg press light
+
+7/5/19
+bench 255 6  225 4,4,4
+Chest supported rows
+Tris
+Poundstone 25lbs
+
+7/6/19
+deadlift 345 12
+Deadlift 415 3 
+Front squat holds 295 
+Glute ham raise
+Cable shrugs and lawnmower abs
+22 min total row/bike
+
+7/8/19
+OHP 145 5 push press 175 2
+Ohp 105 10,7, 5
+Pullups +80 4,3 +53 6,4
+Lots of shoulders
+
+7/9/19
+squat 335 9 225 8,8
+Squat 135 20 😩
+Ham curls 
+Calves
+
+7/10/19
+bench 270 5 sloppy
+YOhp 95 8,8,8,8,8
+Tris 
+35 lb poundstone 8? Breaks
+
+7/15/19
+deadlift 365 10
+Deadlift 425 1
+Glute ham raise +25
+Hamstring curls
+Quad ext stop doing quads on dl day
+Palloff
+
+7/16/19
+OHP 155 4 135 4 105 8
+Cg bench 185 10,10,7
+Shrugs ss upright rows
+Lu raises 22.5
+Front raises
+
+7/17/19
+squat 355 7
+Calves 
+Cossack squat 53lbs
+Elevated heel narrow squat 53lbs
+
+7/19/19
+bench 315 PR hypeee
+Bench 225 3x5
+Ohp 4x8 85
+Triceps and ext rot 
+Flyes
+Poundstone curls 
+
+7/20/19
+deadlift 475 1 PR 
+Glute ham
+Elevated heel narrow squat 62lbs
+Rows
+Forearms
+Throws
+
+7/22/19
+OHP 165 1 
+Ohp 135 3x5 and more sets
+Pullups +70 5,4,4
+Front delts
+
+7/23/19
+Cable triceps
+Reverse cable curls
+Chest supported rows
+Incline curls
+Dragon flag negatives do these more
+
+7/25/19
+Squat 405, 425 failed 315 3,3
+Front squat holds
+Narrow squat hurt right knee
+Dragon flag negatives 
+Snatch grip dl 225
+Cable One arm rows 35
+Hamstring curls 
+
+7/26/19
+bench 260 5 285 1 225 5,5,5
+Ohp 115 5,5,5
+Cable Chest flyes ss pushups 
+Chest supported rows
+Rear delt flyes 
+
+7/27/19
+deadlift 365 7
+Romanian deadlift 185
+Hip thrust 135
+Dragon flag negatives 
+
+7/29/19
+OHP
+
 
 7/29/19
 OHP 125 8
@@ -2664,7 +3099,7 @@ Chest flyes ss band Ext rot
 9/6/19
 Power clean 95 a million reps
 Rdl 155 
-Overhead sqat up to 95
+Overhead squat up to 95
 Dragon flag ss 35lb lunge ss back Ext 4 sets
 
 9/9/19
@@ -2675,7 +3110,7 @@ Conc curls 30/35 4x10
 45 lb pinch
 
 9/10/19
-Front sqat 215 5,5,5
+Front squat 215 5,5,5
 Bb lunges 95 8,8,8,8
 Back extensions ss band stomp
 Leg press 1 45 didn't feel great
@@ -2733,7 +3168,7 @@ Lateral raises 17.5
 
 9/21/19
 Front squt 235 5,5,5
-Overhead sqat 135!
+Overhead squat 135!
 Power clean up to 155
 
 9/23/19
@@ -2851,7 +3286,7 @@ Serratus dips
 10/15/19
 Squat 135 12,12,20
 Squat 185 8,8 
-Front sqat 135 7
+Front squat 135 7
 Shins
 Quad Ext 
 
@@ -2895,8 +3330,8 @@ Side delts ss tri machine
 
 10/23/19
 Squat 315 6,5 275 5
-Front sqat 225 5 
-Front suat 275 3
+Front squat 225 5 
+Front squat 275 3
 Fronat holds 345
 Back extension ss plate quats 45
 Quad ext
@@ -2919,9 +3354,9 @@ Cable lateral raises
 Bike 15 mins
 
 10/28/19
-Front sqat 315 1
-Front sqt 335 1
-Back sqat 225
+Front squat 315 1
+Front squat 335 1
+Back squat 225
 Rdls up to 235
 Ham curls
 
@@ -2982,7 +3417,7 @@ Tris
 11/11/19
 Power clean 195
 Squat 315 5,4,4
-Overhead sqat light
+Overhead squat light
 Jump rope fo height
 Stuff
 
@@ -3171,7 +3606,7 @@ Machine hp ss side delts
 
 1/13/20
 Box jumps
-Paused sqats up to 225
+Paused squats up to 225
 Front squt 135 3x10
 Ham curls 
 
@@ -3197,7 +3632,7 @@ Hammer curls 40s 9,10,
 
 1/20/20
 Clean 185 
-Sqat 275 bak hurts
+Squat 275 bak hurts
 Back extension ss jump rope
 Palloff press 32.5 3x10 each side
 Heavy Leg ext
@@ -3309,7 +3744,7 @@ Basketball
 2/17/20
 Mile run 7:30
 Squat 205 8,8,3
-Front sqat 135 8
+Front squat 135 8
 Nordic curls black band 
 Palloff press ss jump rope 
 Step ups
@@ -3372,7 +3807,7 @@ Curls 35 8,8,8
 Mile run 6:34
 Deadlift 225 5,5,5
 Reactive ankle jumps
-Weird sissy sqats
+Weird sissy squats
 Back extension 
 
 
@@ -3500,7 +3935,7 @@ Bench 215 8,8,6
 Side plank
 Bird dog
 Front squat 195 6,6
-Back squat 135 10
+squat 135 10
 1arm farmers 52
 Incline dB be nch 50 3x12
 Low cable flyes
@@ -4291,7 +4726,7 @@ Palloff press
 
 3/7/21
 Bench 265 6,6,6
-Back squat 225 6
+squat 225 6
 Front squat 135 8,8,8
 Cable rows
 Chest flyes
@@ -5215,7 +5650,7 @@ Bench 245 8,8,8
 Cg bench 125 10,10,10
 Atg split squat
 Rotational row 60 12,12,12
-Back squat 85 3x10
+squat 85 3x10
 Pallof press 
 
 9/7/21
@@ -5227,7 +5662,7 @@ Nordic curl
 
 9/8/21
 Bench 270 5,4,4
-Back squat 105 8,8,8
+squat 105 8,8,8
 Rotational row 45 
 Vmo squat bw 20
 
@@ -5243,7 +5678,7 @@ Deadlift 285 5,4 don't be an idiot next time
 Bench 290 3,3,3
 Atg split squat 25 3x10
 Rotational row 60 12,12,12
-Back squat 105 3x10
+squat 105 3x10
 Explosive Calf raise 105 3x15
 Triceps
 Seated gm bar 3x10
@@ -5330,7 +5765,7 @@ One leg Deadlift 125 8,8,8
 
 9/28/21
 Bench 300 3,3,2
-Back squat 175 10,10,10
+squat 175 10,10,10
 Db rows 70 3x10
 Band rear delts red
 
@@ -6136,7 +6571,7 @@ Bird dog
 
 3/9/22
 Rim touches
-Back squat 170 8
+squat 170 8
 Pullups +45 8
 Front squat 85 8,8,8
 Nordic green 8,8,8
@@ -7425,7 +7860,7 @@ Cable curls
 Seal rows
 
 2/9/23
-Back squat 225 8,7,7
+squat 225 8,7,7
 Front squat 135 5,5 paused
 
 2/11/23
