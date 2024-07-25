@@ -23,7 +23,7 @@ def get_high_reps(s):
 
 
 # import data from notes and put it in a list
-with open("liftingpostcovid.txt", "r") as data:
+with open("data/liftingpostcovid.txt", "r") as data:
     rawNotes = [(line.strip()).split() for line in data]
 rawNotes = [x for x in rawNotes if x]
 
